@@ -8,13 +8,13 @@ I just made for fun.
 ## Description
 
 Application uses Google Speech Recognition API free version.
-Support language is only Hungarian.
+Supported language is only Hungarian.
 
 Supported instructions:
 * <em>'fájl'</em> - open file browser (nautilus)
 * <em>'level'</em> or <em>'levél'</em> - open email client (thunderbird)
 * <em>'terminál'</em> - open terminal(gnome-terminal)
-* <em>'zene'</em> or <em>'zené'</em> open spotify
+* <em>'zene'</em> or <em>'zené'</em> - open spotify
 * <em>'óra'</em> or <em>'pontos idő'</em> - say the current time (hours, minutes)
 * <em>'keress rá'</em> and after only <em>'keywords'</em> - open chrome and start searching for keywords 
 * <em>'pihenj'</em> - switch off virtual assistant
